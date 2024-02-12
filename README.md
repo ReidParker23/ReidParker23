@@ -11,7 +11,7 @@ Most of my life has been spent around computers in varying capacities. Through t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|                        | <a href="https://google.com">Detection Lab</a>|
+|                        | <a href="https://github.com/ReidParker23/Internal-Security-Audit/tree/main">Internal Security Audit</a>|
 |  | |
 |          | |
 |       | |
@@ -37,4 +37,4 @@ Most of my life has been spent around computers in varying capacities. Through t
 </div>
 
 ## Projects
-- Internal Security Audit
+- <a href="https://github.com/ReidParker23/Internal-Security-Audit/tree/main">Internal Security Audit</a>
