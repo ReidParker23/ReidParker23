@@ -29,11 +29,8 @@ Most of my life has been spent around computers in varying capacities. Through t
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CompTIA%20A%2B-008ED1?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CompTIA%20ITF%2B-008ED1?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.dropbox.com/scl/fi/5nsobjutazua174r57zpm/CompTIA-A-ce-certificate.pdf?rlkey=ml6fy0q575mew3ynvcy2fntr7&st=pirmo0mg&dl=0"><img src="https://img.shields.io/badge/-CompTIA%20A%2B-008ED1?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.dropbox.com/scl/fi/b0ibo6sj044053uvk5n36/CompTIA-IT-Fundamentals-ITF-Certification-certificate.pdf?rlkey=1jb4wgkw035s223xr1vsn23pf&st=evwv4sl5&dl=0"><img src="https://img.shields.io/badge/-CompTIA%20ITF%2B-008ED1?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
