@@ -11,7 +11,7 @@ Most of my life has been spent around computers in varying capacities. Through t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|                        | <a href="https://github.com/ReidParker23/Internal-Security-Audit/tree/main">Internal Security Audit</a>|
+| Security Auditing, Security Frameworks, Business Continuity Planning | <a href="https://github.com/ReidParker23/Internal-Security-Audit/tree/main">Internal Security Audit</a>|
 |  | |
 |          | |
 |       | |
