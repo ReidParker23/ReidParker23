@@ -34,7 +34,7 @@ Most of my life has been spent around computers in varying capacities. Through t
 </div>
 
 ## Projects
-- <a href="https://github.com/ReidParker23/Internal-Security-Audit/tree/main">Internal Security Audit</a>
+- <a href="https://github.com/ReidParker23/Internal-Security-Audit/tree/main">Internal Security Audit Lab</a>
 - <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Incident Response Lab</a>
 - <a href="https://github.com/ReidParker23/File-Permission-Management-Lab">File Permission Management Lab</a>
 - <a href="https://github.com/ReidParker23/Filter-SQL-Queries-Lab">Filter SQL Queries Lab</a>
