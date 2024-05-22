@@ -11,12 +11,12 @@ Most of my life has been spent around computers in varying capacities. Through t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Auditing, Security Frameworks, Business Continuity Planning | <a href="https://github.com/ReidParker23/Internal-Security-Audit/tree/main">Internal Security Audit</a>|
-|  | |
-|          | |
-|       | |
-|                   | |
-|  | |
+| Security Auditing, Security Frameworks, Business Continuity Planning | <a href="https://github.com/ReidParker23/Internal-Security-Audit/tree/main">Internal Security Audit Lab</a>|
+| Network Infrastructure and Communications, Security Frameworks, Reporting | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Incident Response Lab</a>|
+|          | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">File Permission Management Lab</a>|
+|       | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Filtering SQL Queries Lab</a>|
+|                   | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Vulnerability Assessment Lab</a>|
+|  | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Filler</a>|
 
 ## Tools
 
