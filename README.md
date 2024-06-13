@@ -15,7 +15,7 @@ Most of my life has been spent around computers in varying capacities. Through t
 | Network Infrastructure and Communications, Security Frameworks, Reporting | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Incident Response Lab</a>|
 | Linux Command Line Interface, File Permission Management | <a href="https://github.com/ReidParker23/File-Permission-Management-Lab">File Permission Management Lab</a>|
 | MySQL, Database Querying | <a href="https://github.com/ReidParker23/Filter-SQL-Queries-Lab">Filter SQL Queries Lab</a>|
-| Vulnerability Assessment | <a href="https://github.com/ReidParker23/Vulnerability-Assessment-Lab">Vulnerability Assessment Lab</a>|
+| Vulnerability Assessment, Remediation Planning | <a href="https://github.com/ReidParker23/Vulnerability-Assessment-Lab">Vulnerability Assessment Lab</a>|
 | NIST CSF, Incident Documentation, Recovery Planning, Network-level Attack scenarios | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Incident Response Lab</a>|
 | Python Scripting, Automation | <a href="https://github.com/ReidParker23/Python-Automation-Lab">Python Automation Lab</a>|
 
