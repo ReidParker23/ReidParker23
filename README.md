@@ -12,11 +12,10 @@ Most of my life has been spent around computers in varying capacities. Through t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Auditing, Security Frameworks, Business Continuity Planning | <a href="https://github.com/ReidParker23/Internal-Security-Audit/tree/main">Internal Security Audit Lab</a>|
-| Network Infrastructure and Communications, Security Frameworks, Reporting | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Incident Response Lab</a>|
+| Network Infrastructure and Communications, Security Frameworks (NIST CSF), Incident Documentation, Recovery Planning | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Incident Response Lab</a>|
 | Linux Command Line Interface, File Permission Management | <a href="https://github.com/ReidParker23/File-Permission-Management-Lab">File Permission Management Lab</a>|
 | MySQL, Database Querying | <a href="https://github.com/ReidParker23/Filter-SQL-Queries-Lab">Filter SQL Queries Lab</a>|
 | Vulnerability Assessment, Remediation Planning | <a href="https://github.com/ReidParker23/Vulnerability-Assessment-Lab">Vulnerability Assessment Lab</a>|
-| NIST CSF, Incident Documentation, Recovery Planning, Network-level Attack scenarios | <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Incident Response Lab</a>|
 | Python Scripting, Automation | <a href="https://github.com/ReidParker23/Python-Automation-Lab">Python Automation Lab</a>|
 
 ## Tools
@@ -43,5 +42,4 @@ Most of my life has been spent around computers in varying capacities. Through t
 - <a href="https://github.com/ReidParker23/File-Permission-Management-Lab">File Permission Management Lab</a>
 - <a href="https://github.com/ReidParker23/Filter-SQL-Queries-Lab">Filter SQL Queries Lab</a>
 - <a href="https://github.com/ReidParker23/Vulnerability-Assessment-Lab">Vulnerability Assessment Lab</a>
-- <a href="https://github.com/ReidParker23/Incident-Response-Lab/tree/main">Incident Response Lab</a>
 - <a href="https://github.com/ReidParker23/Python-Automation-Lab">Python Automation Lab</a>
